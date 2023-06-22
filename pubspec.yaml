@@ -24,6 +24,23 @@ dev_dependencies:
   # icon
   flutter_launcher_icons: ^0.13.1
 
+  # splash screen
+  flutter_native_splash: ^2.3.1
+
+flutter_native_splash:
+  color: "#B4ADA3"
+  image: assets/icon/roadmap-splash.png
+  color_dark: "#231E1A"
+  image_dark: assets/icon/roadmap-splash.png
+
+  android_12:
+    image: assets/icon/roadmap-splash.png
+    icon_background_color: "#B4ADA3"
+    image_dark: assets/icon/roadmap-splash.png
+    icon_background_color_dark: "#231E1A"
+
+  web: false
+
 flutter_icons:
   android: true
   ios: true
