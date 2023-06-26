@@ -20,3 +20,4 @@ RoadMap lets you create a roadmap about a topic.
 - Add splash screen
 - When you start the application, you will receive information such as your name and surname with the stepper and have a section that belongs to you in the application.
 - use riverpod, auto route, sqflite
+- icon and app name - + 
